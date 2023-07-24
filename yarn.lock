@@ -2900,7 +2900,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vercel/build-utils@npm:6.8.2":
+"@vercel/build-utils@npm:6.8.2, @vercel/build-utils@npm:^6.8.2":
   version: 6.8.2
   resolution: "@vercel/build-utils@npm:6.8.2"
   checksum: 51f6cf91a6cf6a9fe90c39d3cf3f0767577102f8020eac6b16ef2c71216b60ff05c0c6b67e97daad17e0bd2b00a3474d6372ae662a530eb589c97cea2da7de6d
@@ -11657,6 +11657,7 @@ __metadata:
     "@types/node": 20.4.2
     "@types/react": 18.2.15
     "@types/react-dom": 18.2.7
+    "@vercel/build-utils": ^6.8.2
     "@vercel/next": ^3.9.0
     eslint: 8.45.0
     eslint-config-next: 13.4.11
