@@ -1398,9 +1398,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@cloudflare/next-on-pages@file:../../Downloads/npm-package-next-on-pages-393::locator=yarn-next-on-pages-test%40workspace%3A.":
-  version: 0.0.0-5f8108c
-  resolution: "@cloudflare/next-on-pages@file:../../Downloads/npm-package-next-on-pages-393#../../Downloads/npm-package-next-on-pages-393::hash=06b067&locator=yarn-next-on-pages-test%40workspace%3A."
+"@cloudflare/next-on-pages@npm:beta":
+  version: 0.0.0-9734795
+  resolution: "@cloudflare/next-on-pages@npm:0.0.0-9734795"
   dependencies:
     acorn: ^8.8.0
     ast-types: ^0.14.2
@@ -1416,8 +1416,8 @@ __metadata:
     vercel: ^30.0.0
     wrangler: ^3.0.0
   bin:
-    next-on-pages: ./bin/index.js
-  checksum: bdc437987f8618b85b01d65d6a9ba282dc46805d529521a8ca70c95b9df787c66e09d540533d567002a4d21aa185bc11955bee9c44913d4821dcc776df619702
+    next-on-pages: bin/index.js
+  checksum: cd19d8f1cdb3a3fba600c1bc53566a5410758d274e0088a6298ae823c948fe457a444c6ee8d73a39f684ac11db5c7aeb8db64a769cab47bf1068cae9f5585bd0
   languageName: node
   linkType: hard
 
@@ -11653,7 +11653,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "yarn-next-on-pages-test@workspace:."
   dependencies:
-    "@cloudflare/next-on-pages": ../../Downloads/npm-package-next-on-pages-393
+    "@cloudflare/next-on-pages": beta
     "@types/node": 20.4.2
     "@types/react": 18.2.15
     "@types/react-dom": 18.2.7

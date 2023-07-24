@@ -28,7 +28,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {\
           "packageLocation": "./",\
           "packageDependencies": [\
-            ["@cloudflare/next-on-pages", "virtual:85f54e22ec343d2cbd4848692a7101fe7b6a41add7e7d13885c8d851e1e941dd10873114ae44bc77126235353a4941af09c7a3b7217f43bb100e482a19fdbe58#file:../../Downloads/npm-package-next-on-pages-393#../../Downloads/npm-package-next-on-pages-393::hash=06b067&locator=yarn-next-on-pages-test%40workspace%3A."],\
+            ["@cloudflare/next-on-pages", "virtual:85f54e22ec343d2cbd4848692a7101fe7b6a41add7e7d13885c8d851e1e941dd10873114ae44bc77126235353a4941af09c7a3b7217f43bb100e482a19fdbe58#npm:0.0.0-9734795"],\
             ["@types/node", "npm:20.4.2"],\
             ["@types/react", "npm:18.2.15"],\
             ["@types/react-dom", "npm:18.2.7"],\
@@ -2473,17 +2473,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@cloudflare/next-on-pages", [\
-        ["file:../../Downloads/npm-package-next-on-pages-393#../../Downloads/npm-package-next-on-pages-393::hash=06b067&locator=yarn-next-on-pages-test%40workspace%3A.", {\
-          "packageLocation": "./.yarn/cache/@cloudflare-next-on-pages-file-99ff194958-bdc437987f.zip/node_modules/@cloudflare/next-on-pages/",\
+        ["npm:0.0.0-9734795", {\
+          "packageLocation": "./.yarn/cache/@cloudflare-next-on-pages-npm-0.0.0-9734795-e88ab4e2d4-cd19d8f1cd.zip/node_modules/@cloudflare/next-on-pages/",\
           "packageDependencies": [\
-            ["@cloudflare/next-on-pages", "file:../../Downloads/npm-package-next-on-pages-393#../../Downloads/npm-package-next-on-pages-393::hash=06b067&locator=yarn-next-on-pages-test%40workspace%3A."]\
+            ["@cloudflare/next-on-pages", "npm:0.0.0-9734795"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:85f54e22ec343d2cbd4848692a7101fe7b6a41add7e7d13885c8d851e1e941dd10873114ae44bc77126235353a4941af09c7a3b7217f43bb100e482a19fdbe58#file:../../Downloads/npm-package-next-on-pages-393#../../Downloads/npm-package-next-on-pages-393::hash=06b067&locator=yarn-next-on-pages-test%40workspace%3A.", {\
-          "packageLocation": "./.yarn/__virtual__/@cloudflare-next-on-pages-virtual-8da1bc7e54/0/cache/@cloudflare-next-on-pages-file-99ff194958-bdc437987f.zip/node_modules/@cloudflare/next-on-pages/",\
+        ["virtual:85f54e22ec343d2cbd4848692a7101fe7b6a41add7e7d13885c8d851e1e941dd10873114ae44bc77126235353a4941af09c7a3b7217f43bb100e482a19fdbe58#npm:0.0.0-9734795", {\
+          "packageLocation": "./.yarn/__virtual__/@cloudflare-next-on-pages-virtual-509dcae829/0/cache/@cloudflare-next-on-pages-npm-0.0.0-9734795-e88ab4e2d4-cd19d8f1cd.zip/node_modules/@cloudflare/next-on-pages/",\
           "packageDependencies": [\
-            ["@cloudflare/next-on-pages", "virtual:85f54e22ec343d2cbd4848692a7101fe7b6a41add7e7d13885c8d851e1e941dd10873114ae44bc77126235353a4941af09c7a3b7217f43bb100e482a19fdbe58#file:../../Downloads/npm-package-next-on-pages-393#../../Downloads/npm-package-next-on-pages-393::hash=06b067&locator=yarn-next-on-pages-test%40workspace%3A."],\
+            ["@cloudflare/next-on-pages", "virtual:85f54e22ec343d2cbd4848692a7101fe7b6a41add7e7d13885c8d851e1e941dd10873114ae44bc77126235353a4941af09c7a3b7217f43bb100e482a19fdbe58#npm:0.0.0-9734795"],\
             ["@types/vercel", null],\
             ["@types/wrangler", null],\
             ["acorn", "npm:8.10.0"],\
@@ -2497,7 +2497,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["vercel", "npm:31.0.4"],\
             ["wrangler", "npm:3.3.0"],\
             ["zod", "npm:3.21.4"],\
-            ["zodcli", "virtual:8da1bc7e541bb3fadafe4b9cc10bb5a00231f3faabcdd17cd2fd13afce45db0495e2f81cda19ee4893f3662db7419ae836101ce5cdc138467bcdb3497fbd32d1#npm:0.0.4"]\
+            ["zodcli", "virtual:509dcae8298192d463792f9aa56c428a26a856be5707a1d230cb3c6dbdf4f8a341bbcaf9b5d4ad19d26651e9e518da64b85d1b784cba1d73dea25b609bdad1cc#npm:0.0.4"]\
           ],\
           "packagePeers": [\
             "@types/vercel",\
@@ -13978,7 +13978,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["yarn-next-on-pages-test", "workspace:."],\
-            ["@cloudflare/next-on-pages", "virtual:85f54e22ec343d2cbd4848692a7101fe7b6a41add7e7d13885c8d851e1e941dd10873114ae44bc77126235353a4941af09c7a3b7217f43bb100e482a19fdbe58#file:../../Downloads/npm-package-next-on-pages-393#../../Downloads/npm-package-next-on-pages-393::hash=06b067&locator=yarn-next-on-pages-test%40workspace%3A."],\
+            ["@cloudflare/next-on-pages", "virtual:85f54e22ec343d2cbd4848692a7101fe7b6a41add7e7d13885c8d851e1e941dd10873114ae44bc77126235353a4941af09c7a3b7217f43bb100e482a19fdbe58#npm:0.0.0-9734795"],\
             ["@types/node", "npm:20.4.2"],\
             ["@types/react", "npm:18.2.15"],\
             ["@types/react-dom", "npm:18.2.7"],\
@@ -14041,10 +14041,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:8da1bc7e541bb3fadafe4b9cc10bb5a00231f3faabcdd17cd2fd13afce45db0495e2f81cda19ee4893f3662db7419ae836101ce5cdc138467bcdb3497fbd32d1#npm:0.0.4", {\
-          "packageLocation": "./.yarn/__virtual__/zodcli-virtual-1d9930e3bb/0/cache/zodcli-npm-0.0.4-aee08fcded-14b575fcb1.zip/node_modules/zodcli/",\
+        ["virtual:509dcae8298192d463792f9aa56c428a26a856be5707a1d230cb3c6dbdf4f8a341bbcaf9b5d4ad19d26651e9e518da64b85d1b784cba1d73dea25b609bdad1cc#npm:0.0.4", {\
+          "packageLocation": "./.yarn/__virtual__/zodcli-virtual-91adcc6954/0/cache/zodcli-npm-0.0.4-aee08fcded-14b575fcb1.zip/node_modules/zodcli/",\
           "packageDependencies": [\
-            ["zodcli", "virtual:8da1bc7e541bb3fadafe4b9cc10bb5a00231f3faabcdd17cd2fd13afce45db0495e2f81cda19ee4893f3662db7419ae836101ce5cdc138467bcdb3497fbd32d1#npm:0.0.4"],\
+            ["zodcli", "virtual:509dcae8298192d463792f9aa56c428a26a856be5707a1d230cb3c6dbdf4f8a341bbcaf9b5d4ad19d26651e9e518da64b85d1b784cba1d73dea25b609bdad1cc#npm:0.0.4"],\
             ["@types/zod", null],\
             ["typescript", "patch:typescript@npm%3A4.9.5#~builtin<compat/typescript>::version=4.9.5&hash=289587"],\
             ["zod", "npm:3.21.4"]\

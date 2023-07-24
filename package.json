@@ -13,7 +13,7 @@
     "pages:dev": "yarn wrangler pages dev .vercel/output/static --compatibility-flag=nodejs_compat"
   },
   "dependencies": {
-    "@cloudflare/next-on-pages": "../../Downloads/npm-package-next-on-pages-393",
+    "@cloudflare/next-on-pages": "beta",
     "@types/node": "20.4.2",
     "@types/react": "18.2.15",
     "@types/react-dom": "18.2.7",
