@@ -2953,7 +2953,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vercel/next@npm:3.9.0":
+"@vercel/next@npm:3.9.0, @vercel/next@npm:^3.9.0":
   version: 3.9.0
   resolution: "@vercel/next@npm:3.9.0"
   checksum: 97631e428ed9ceec4ada3987fc2a853548168fe05dca33a19d8ca7de5768279c4999d1caf58c416eea11f7a3b1e8b78ac0cd0dee1d04f370b46d594cf9e596c5
@@ -11657,6 +11657,7 @@ __metadata:
     "@types/node": 20.4.2
     "@types/react": 18.2.15
     "@types/react-dom": 18.2.7
+    "@vercel/next": ^3.9.0
     eslint: 8.45.0
     eslint-config-next: 13.4.11
     next: 13.4.11

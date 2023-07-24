@@ -32,6 +32,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:20.4.2"],\
             ["@types/react", "npm:18.2.15"],\
             ["@types/react-dom", "npm:18.2.7"],\
+            ["@vercel/next", "npm:3.9.0"],\
             ["eslint", "npm:8.45.0"],\
             ["eslint-config-next", "virtual:85f54e22ec343d2cbd4848692a7101fe7b6a41add7e7d13885c8d851e1e941dd10873114ae44bc77126235353a4941af09c7a3b7217f43bb100e482a19fdbe58#npm:13.4.11"],\
             ["next", "virtual:85f54e22ec343d2cbd4848692a7101fe7b6a41add7e7d13885c8d851e1e941dd10873114ae44bc77126235353a4941af09c7a3b7217f43bb100e482a19fdbe58#npm:13.4.11"],\
@@ -13982,6 +13983,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/node", "npm:20.4.2"],\
             ["@types/react", "npm:18.2.15"],\
             ["@types/react-dom", "npm:18.2.7"],\
+            ["@vercel/next", "npm:3.9.0"],\
             ["eslint", "npm:8.45.0"],\
             ["eslint-config-next", "virtual:85f54e22ec343d2cbd4848692a7101fe7b6a41add7e7d13885c8d851e1e941dd10873114ae44bc77126235353a4941af09c7a3b7217f43bb100e482a19fdbe58#npm:13.4.11"],\
             ["next", "virtual:85f54e22ec343d2cbd4848692a7101fe7b6a41add7e7d13885c8d851e1e941dd10873114ae44bc77126235353a4941af09c7a3b7217f43bb100e482a19fdbe58#npm:13.4.11"],\
